@@ -1,6 +1,8 @@
 # MonoGame Scene Demo
 This repository contains demo game built using MonoGame 3.8.  The purpose of this demo is to show an implementation of scenes for a game.
 
+The full tutorial on creating this demo and an explanation of all code can be found at https://manbeardgames.com/docs/tutorials/scenes/introduction
+
 ## License
 This is free and unencumbered software released into the public domain.
 
